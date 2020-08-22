@@ -1,0 +1,385 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Catalogue should render correctly 1`] = `
+<div
+  className="MuiContainer-root MuiContainer-maxWidthLg"
+>
+  <div
+    className="MuiBox-root MuiBox-root-1"
+  >
+    <h5
+      className="MuiTypography-root MuiTypography-h5 MuiTypography-alignLeft"
+    >
+      Catalogue
+    </h5>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
+  >
+    <div
+      className="MuiGrid-root Film MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+    >
+      <div
+        className="MuiPaper-root MuiCard-root MuiPaper-elevation8 MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <div
+            className="MuiCardMedia-root"
+            style={
+              Object {
+                "backgroundImage": "url(\\"/assets/images/potemkine.jpg\\")",
+                "height": 0,
+                "paddingTop": "100%",
+              }
+            }
+            title="Battleship Potemkin"
+          />
+          <div
+            className="MuiCardContent-root"
+          >
+            <h2
+              className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom MuiTypography-alignLeft"
+            >
+              Battleship Potemkin
+            </h2>
+            <h6
+              className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-alignLeft"
+            >
+              1925
+            </h6>
+            <p
+              className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-alignLeft"
+            >
+              A dramatized account of a great Russian naval mutiny and a resultant public demonstration, showing support, which brought on a police massacre. The film had an incredible impact on the development of cinema and is a masterful example of montage editing.
+            </p>
+          </div>
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+        <div
+          className="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textSizeSmall MuiButton-sizeSmall"
+            disabled={false}
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "color": "black",
+              }
+            }
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Buy
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root Film MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+    >
+      <div
+        className="MuiPaper-root MuiCard-root MuiPaper-elevation8 MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <div
+            className="MuiCardMedia-root"
+            style={
+              Object {
+                "backgroundImage": "url(\\"/assets/images/tokyo-story.jpg\\")",
+                "height": 0,
+                "paddingTop": "100%",
+              }
+            }
+            title="Tokyo Story"
+          />
+          <div
+            className="MuiCardContent-root"
+          >
+            <h2
+              className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom MuiTypography-alignLeft"
+            >
+              Tokyo Story
+            </h2>
+            <h6
+              className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-alignLeft"
+            >
+              1953
+            </h6>
+            <p
+              className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-alignLeft"
+            >
+              The elderly Shukishi and his wife, Tomi, take the long journey from their small seaside village to visit their adult children in Tokyo. Their elder son, Koichi, a doctor, and their daughter, Shige, a hairdresser, don't have much time to spend with their aged parents, and so it falls to Noriko, the widow of their younger son who was killed in the war, to keep her in-laws company.
+            </p>
+          </div>
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+        <div
+          className="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textSizeSmall MuiButton-sizeSmall"
+            disabled={false}
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "color": "black",
+              }
+            }
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Buy
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root Film MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+    >
+      <div
+        className="MuiPaper-root MuiCard-root MuiPaper-elevation8 MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <div
+            className="MuiCardMedia-root"
+            style={
+              Object {
+                "backgroundImage": "url(\\"/assets/images/big-trouble.jpg\\")",
+                "height": 0,
+                "paddingTop": "100%",
+              }
+            }
+            title="Big Trouble in Little China"
+          />
+          <div
+            className="MuiCardContent-root"
+          >
+            <h2
+              className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom MuiTypography-alignLeft"
+            >
+              Big Trouble in Little China
+            </h2>
+            <h6
+              className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-alignLeft"
+            >
+              1986
+            </h6>
+            <p
+              className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-alignLeft"
+            >
+              When trucker Jack Burton agreed to take his friend, Wang Chi, to pick up his fiancee at the airport, he never expected to get involved in a supernatural battle between good and evil. Wang's fiancee has emerald green eyes, which make her a perfect target for immortal sorcerer Lo Pan and his three invincible cronies. Lo Pan must marry a girl with green eyes so he can regain his physical form.
+            </p>
+          </div>
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+        <div
+          className="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textSizeSmall MuiButton-sizeSmall"
+            disabled={false}
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "color": "black",
+              }
+            }
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Buy
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root Film MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3"
+    >
+      <div
+        className="MuiPaper-root MuiCard-root MuiPaper-elevation8 MuiPaper-rounded"
+      >
+        <button
+          className="MuiButtonBase-root MuiCardActionArea-root"
+          disabled={false}
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <div
+            className="MuiCardMedia-root"
+            style={
+              Object {
+                "backgroundImage": "url(\\"/assets/images/third-man.png\\")",
+                "height": 0,
+                "paddingTop": "100%",
+              }
+            }
+            title="The Third Man"
+          />
+          <div
+            className="MuiCardContent-root"
+          >
+            <h2
+              className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom MuiTypography-alignLeft"
+            >
+              The Third Man
+            </h2>
+            <h6
+              className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-alignLeft"
+            >
+              1949
+            </h6>
+            <p
+              className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-alignLeft"
+            >
+              In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a "third man" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.
+            </p>
+          </div>
+          <span
+            className="MuiCardActionArea-focusHighlight"
+          />
+        </button>
+        <div
+          className="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textSizeSmall MuiButton-sizeSmall"
+            disabled={false}
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "color": "black",
+              }
+            }
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Buy
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
